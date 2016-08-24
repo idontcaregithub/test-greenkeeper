@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/idontcaregithub/test-greenkeeper#readme",
   "dependencies": {
-    "cheerio": "^0.17.0"
+    "cheerio": "^0.22.0"
   }
 }
